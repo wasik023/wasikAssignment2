@@ -1,0 +1,17 @@
+@import 'bootstrap';
+
+/* Custom Styles */
+#slideshow {
+    margin-top: 20px;
+}
+
+#books {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 18rem;
+    margin-bottom: 20px;
+}
